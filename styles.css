@@ -1,0 +1,19 @@
+/* Add your styles here */
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: orange;
+}
+
+.axis-label {
+  font-size: 14px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
